@@ -114,6 +114,7 @@ let
       QuickChick = callPackage ../development/coq-modules/QuickChick {};
       reglang = callPackage ../development/coq-modules/reglang {};
       relation-algebra = callPackage ../development/coq-modules/relation-algebra {};
+      rust-extraction = callPackage ../development/coq-modules/rust-extraction {};
       semantics = callPackage ../development/coq-modules/semantics {};
       serapi = callPackage ../development/coq-modules/serapi {};
       simple-io = callPackage ../development/coq-modules/simple-io { };
